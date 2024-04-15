@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.countContainer {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.mainHeading {
+  font-size: 60px;
+  font-weight: bold;
+}
+.counter {
+  color: #c20a72;
+}
+.button {
+  padding: 10px 30px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
